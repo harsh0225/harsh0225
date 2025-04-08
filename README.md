@@ -35,16 +35,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,flask,tailwind,aws,docker,postgres,redis,git,github,figma,vscode&perline=8&theme=dark" alt="Tech Stack" style="filter: drop-shadow(0 0 8px #00ff88);"/>
 </div>
 
-<!-- Featured Projects -->
-<h2 align="center">🌟 Featured Innovations</h2>
-<div align="center">
-  <a href="https://github.com/harsh0225/techonsy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh0225&repo=techonsy&theme=radical&show_owner=true&bg_color=000000&border_color=00ff88" />
-  </a>
-  <a href="https://github.com/harsh0225/river-flood-forecast">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsh0225&repo=river-flood-forecast&theme=radical&show_owner=true&bg_color=000000&border_color=00ff88" />
-  </a>
-</div>
+
 
 <!-- GitHub Metrics -->
 <h2 align="center">📈 Code Serpent</h2>
