@@ -1,78 +1,75 @@
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
-
+<!-- Animated Banner -->
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer;Let's+build+something+awesome+together!" alt="Typing SVG" />
-  </a>
+  <img src="https://github.com/harsh0225/harsh0225/assets/banner.gif" alt="banner" width="100%">
+</p>
+
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff;">Harshvardhan Bharitkar</span></h1>
+<h3 align="center">🚀 Full Stack Developer | 🌱 Machine Learning Explorer | 💡 Problem Solver</h3>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Engineer+by+Degree%2C+Developer+by+Passion.;Final+Year+Computer+Engineering+Student.;20%2B+Real-World+Projects.;Full+Stack+%7C+ML+%7C+Hackathons.;Let’s+Build+Something+Amazing+Together!+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a **Software Developer** with a passion for building scalable and efficient applications. I love exploring new technologies and solving complex problems. Here's a little more about me:
-
-- 🔭 I’m currently working on **[Project Name](https://github.com/yourusername/project-repo)**.
-- 🌱 I’m currently learning **Machine Learning** and **Cloud Computing**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **Python, JavaScript, or DevOps**.
-- 📫 How to reach me: **[Your Email](mailto:youremail@example.com)**.
-- ⚡ Fun fact: I love **hiking** and **photography**.
+- 🎓 Final Year Computer Engineering @ **Amritvani College of Engineering**  
+- 💻 MERN Stack Developer with love for **Problem Solving**
+- 🌊 Built “River Flood Forecasting System” with **Team Phoenix Riders**
+- 🏆 **Smart India Hackathon Finalist**, **Avishkar 2025 Shortlisted**
+- 🤝 Open to Freelance, Internships, and Collaborative Projects  
+- 🧪 Currently working on **Flask ML APIs + Geospatial Visualizations**
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nextjs,nodejs,express,mongodb,git,github,vscode,postman,vercel" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh0225&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harsh0225&theme=github-dark&hide_border=true&border_radius=12" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0225&layout=compact&theme=github_dark&hide_border=true&border_radius=12" width="40%" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🌐 Connect With Me
 
-### [Project Name](https://github.com/yourusername/project-repo)
-A brief description of the project.
-
-### [Project Name](https://github.com/yourusername/project-repo)
-A brief description of the project.
-
-### [Project Name](https://github.com/yourusername/project-repo)
-A brief description of the project.
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshvardhanbharitkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌐 Let's Connect!
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
- 
+  <img src="https://raw.githubusercontent.com/harsh0225/harsh0225/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Quote
+
+> *"Code is like poetry – it has to be elegant and meaningful."*  
+> — **Harshvardhan Bharitkar**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
