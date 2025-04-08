@@ -28,7 +28,7 @@
 
 ---
 
-### ⚔️ Pirate Skills
+### ⚔️  Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,flask,git,github,vscode&theme=dark" />
