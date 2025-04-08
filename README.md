@@ -4,8 +4,9 @@
 </p>
 
 <!-- Typing & Glowing Name -->
+<!-- Typing & Glowing Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=0000FF&center=true&vCenter=true&width=435&lines=🏴‍☠️+Ahoy!+I'm+Harshvardhan!;Captain+of+the+Code+Pirates!+☠️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=4AA4F6&center=true&vCenter=true&width=435&lines=🏴‍☠️+Ahoy!+I'm+Harshvardhan!;Captain+of+the+Code+Pirates!+☠️" />
 </h1>
 
 <!-- Hacker-style intro -->
