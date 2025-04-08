@@ -3,11 +3,20 @@
   <img src="https://raw.githubusercontent.com/harsh0225/harsh0225/main/assets/banner.gif" alt="banner" width="100%" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- 🚀 Cinematic Typing Animation with Glow and Vibes -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Harshvardhan+Bharitkar!;Engineer+by+Degree%2C+Developer+by+Passion.;ML+%7C+Full+Stack+%7C+Hackathon+Finalist;Let's+Build+Something+Awesome+%F0%9F%9A%80" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&lines=%F0%9F%91%8B+Hey+there!+I'm+Harshvardhan+Bharitkar.;%F0%9F%9A%80+Engineer+by+Degree%2C+Developer+by+Passion.;%F0%9F%94%A5+ML+%7C+MERN+%7C+Geospatial+Nerd+%7C+Hackathon+Beast;✨+Let's+Build+Something+Mind-Blowing+Together!+" alt="Typing animation" />
 </p>
 
+<!-- 💥 Glitch Fire Avatar -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="160" alt="Glitch fire animation" />
+</p>
+
+<!-- 🧠 Neon Glow Tech Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99184393/235245059-21fdcc6a-5505-4b4d-841b-5a8f22ec8d93.gif" width="95%" />
+</p>
 ---
 
 ## ✨ About Me
