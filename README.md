@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99184393/235245059-21fdcc6a-5505-4b4d-841b-5a8f22ec8d93.gif" width="95%" />
 </p>
+
 ---
 
 ## ✨ About Me
@@ -49,8 +50,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0225&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
 </p>
-
-
 
 ---
 
