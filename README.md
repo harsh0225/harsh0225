@@ -52,44 +52,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0225&theme=react-dark&bg_color=000000&hide_border=true&area=true&area_color=00ff88&line=00ff88&point=ffffff" width="90%"/>
 </div>
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=harsh0225&theme=radical&fire=00FF88&background=000000&border=00FF88" alt="Contribution Streak"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0225&layout=compact&theme=radical&bg_color=000000&border_color=00ff88" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Connect Section -->
-<h2 align="center">🌐 Let's Innovate Together</h2>
-<div align="center">
-  <a href="https://linkedin.com/in/harshvardhan-bharitkar" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-00FF88?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:bharitkarharshvardhan@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-00FF88?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-  <a href="https://leetcode.com/harsh0225/">
-    <img src="https://img.shields.io/badge/-LeetCode-00FF88?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://github.com/harsh0225">
-    <img src="https://img.shields.io/badge/-Portfolio-00FF88?style=for-the-badge&logo=react&logoColor=black"/>
-  </a>
-</div>
-
-<!-- Visitor Counter -->
+<!-- ASCII Art Contributions -->
+<h2 align="center">🖥️ ASCII Art Contributions</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh0225&label=PROFILE+VIEWS&color=00ff88&style=flat-square" alt="Profile Views"/>
-</p>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/harsh0225/harsh0225/main/assets/cyber-line.svg" width="100%"/>
-  <br>
-  <a href="https://www.buymeacoffee.com/harsh0225">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me Coffee"/>
-  </a>
-</div>
