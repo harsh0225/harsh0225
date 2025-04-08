@@ -49,9 +49,7 @@
 <!-- GitHub Metrics -->
 <h2 align="center">📈 Code Serpent</h2>
 <div align="center">
-  <a href="https://github.com/harsh0225">
-    <img src="https://raw.githubusercontent.com/harsh0225/harsh0225/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/harsh0225/output/main/dist/snake.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
 <table align="center">
