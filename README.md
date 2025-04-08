@@ -62,10 +62,10 @@
 ### 🕸️ Connect With Me
 
 <p align="center">
-  <a href="mailto:bharitkarharshvardhan@gmail.com">
+  <a href="mailto:bharitkarharshvardhan2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/harshvardhan-bharitkar">
+  <a href="[https://linkedin.com/in/harshvardhan-bharitkar](https://www.linkedin.com/in/harshvardhan-bharitkar-146a88233/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
