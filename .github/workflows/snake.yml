@@ -1,0 +1,23 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"  # This runs the workflow daily at midnight UTC
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: harsh0225  # Replace with your GitHub username
+          svg_output_path: dist/snake.svg  # Output path for the generated SVG
+      
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output  # Branch where the SVG will be stored
+          build_dir: dist  # Directory containing the generated SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token for authentication
