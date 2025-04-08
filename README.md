@@ -1,80 +1,87 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/harshvardhanbharitkar/harshvardhanbharitkar/assets/your-banner.gif" alt="animated banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Harshvardhan Bharitkar</h1>
-<h3 align="center">A Passionate Computer Engineering Student | Full Stack Developer | Problem Solver</h3>
+<h3 align="center">Engineer | Full Stack Developer | Innovator | ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Solutions.;MERN+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%E2%9C%94%EF%B8%8F;Tech+Enthusiast+%F0%9F%92%A1;ML+Explorer+%F0%9F%A7%91%E2%80%8D%F0%9F%A4%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Code.;Final+Year+Computer+Engineering+Student.;20%2B+Projects+%7C+SIH+Finalist+%7C+Hackathon+Lover.;Let's+Build+Something+Great+Together!" alt="Typing SVG">
 </p>
 
 ---
 
-### 🧑‍💻 About Me:
-- 🎓 Final Year Computer Engineering Student at **Amritvani College of Engineering**  
-- 💡 Passionate about **Full Stack Web Development** & **Machine Learning**
-- 🏆 **Smart India Hackathon** Grand Finalist | **Avishkar 2025** Shortlisted
-- 💼 Interned at **Sumago Infotech** & **Techosny Software**
-- 🌊 Built “**River Flood Forecasting System**” with **Team Phoenix Riders**
-- 🚀 Always looking to **collaborate on real-world tech solutions**
+## 🚀 About Me
+
+- 🎓 Final year student at **Amritvani College of Engineering**
+- 💻 Passionate **MERN Stack** Developer & **Machine Learning Explorer**
+- 🧠 Strong foundation in **DSA**, **System Design**, and **Geospatial ML**
+- 🛠 Built 20+ projects & deployed real-world solutions
+- 🏆 **Smart India Hackathon** Finalist | **Avishkar 2025** Shortlisted
+- 🌊 Developed "River Flood Forecast System" with Team Phoenix Riders
+- 💼 Interned at **Sumago Infotech** and **Techosny Software**
+- 🔭 Always open to **collaboration**, **mentorship**, and cool ideas
 
 ---
 
-### 💻 Tech Stack
+## 🧠 Skills & Tools
 
-#### Languages
+### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Web Dev
+### Web & Backend
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-#### Tools & DevOps
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhanbharitkar&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0225&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhanbharitkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshvardhanbharitkar&theme=tokyonight" alt="Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanbharitkar&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanbharitkar&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshvardhanbharitkar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
-
----
-
-### 🧠 Fun Facts
-
-- 🧩 I love solving complex algorithms and cracking coding challenges
-- 🌱 Currently exploring Geospatial ML + Flask APIs
-- 🎨 Built 20+ Projects from idea to deployment
-- 🛠️ I believe in *learning by building*
-
----
-
-### 🙌 Let's Connect & Build Together!
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshvardhanbharitkar/harshvardhanbharitkar/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshvardhanbharitkar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshvardhanbharitkar/harshvardhanbharitkar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 💬 Quote
+
+> “Stay hungry, stay foolish.” – Steve Jobs  
+> *Let’s innovate, collaborate, and solve problems together.*
