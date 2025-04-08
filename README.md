@@ -54,19 +54,11 @@
 
 <!-- ASCII Art Contributions -->
 <!-- GitHub Metrics -->
-<h2 align="center">📈 Development Pulse</h2>
-
+<!-- Dynamic ASCII Contributions -->
+<h2 align="center">⌨️ Code Activity</h2>
 <div align="center">
-  <pre>
-  ████████████████████████████████████████
-  █░░░░░░░░░░░░░░ Harsh's Code Journey ░░░░█
-  ████████████████████████████████████████
-
-  2024 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 98%
-  2023 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 92%
-  2022 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ 85%
-
-  LEGEND:
-  ▰ = 50 commits   ░ = 10 commits
-  </pre>
+  <a href="https://github.com/harsh0225">
+    <img src="https://github-contributions-svg.vercel.app/api/ascii?username=harsh0225&scheme=radical&font=Fira+Code&animate=true" alt="ASCII Contributions" />
+  </a>
+</div>
 </div><p align="center">
