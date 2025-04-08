@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-- 🔭 I’m currently working on **[Techonsy Software pvt. ltd.]**
+- 🔭 I’m currently working on **Techonsy Software pvt. ltd.**
 
 - 🌱 I’m currently learning **Next.js, Framer Motion, AI-powered tools**
 
 - 💬 Ask me about **React, Flask, AI, APIs**
 
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **bharitkarharshvardhan2003@gmail.com**
 
 - ⚡ Fun fact: **I love tech and coffee equally ☕**
 
@@ -26,11 +26,11 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=tokyonight" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh0225&show_icons=true&locale=en&theme=tokyonight" alt="harsh0225" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="yourusername" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh0225&theme=tokyonight" alt="yourusername" />
 </p>
 
 ---
