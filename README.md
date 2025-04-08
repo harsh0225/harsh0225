@@ -46,13 +46,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0225&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="40%" />
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0225/harsh0225/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
