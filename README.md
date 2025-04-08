@@ -1,16 +1,14 @@
-<!-- 🧠 ANIMATED HEADER (Backup if banner.gif missing) -->
+<!-- 🧠 STYLIZED ANIMATED HEADER -->
 <p align="center">
-  <img src="https://i.imgur.com/zZ8k1hJ.gif" alt="Harsh Banner" width="100%" />
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/harsh0225/harsh0225/main/assets/banner.gif" type="image/gif">
+    <img src="https://i.imgur.com/zZ8k1hJ.gif" alt="Harsh Banner" style="width: 100%; border-radius: 10px; box-shadow: 0 0 20px #39FF14;">
+  </picture>
 </p>
 
-<!-- ✨ If you upload your custom banner, use this line instead -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh0225/harsh0225/main/assets/banner.gif" alt="banner" width="100%" />
-</p> -->
-
-<!-- 🚀 Cinematic Typing Animation with Glow and Vibes -->
+<!-- 🚀 CINEMATIC TYPING WITH GLOW EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&lines=%F0%9F%91%8B+Hey+there!+I'm+Harshvardhan+Bharitkar.;%F0%9F%9A%80+Engineer+by+Degree%2C+Developer+by+Passion.;%F0%9F%94%A5+ML+%7C+MERN+%7C+Geospatial+Nerd+%7C+Hackathon+Beast;✨+Let's+Build+Something+Mind-Blowing+Together!+" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&lines=%F0%9F%91%8B+Hey+there!+I'm+Harshvardhan+Bharitkar.;%F0%9F%9A%80+Engineer+by+Degree%2C+Developer+by+Passion.;%F0%9F%94%A5+ML+%7C+MERN+%7C+Geospatial+Nerd+%7C+Hackathon+Beast;✨+Let's+Build+Something+Mind-Blowing+Together!" alt="Typing animation with neon glow" />
 </p>
 
 ---
